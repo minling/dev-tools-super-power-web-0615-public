@@ -41,5 +41,25 @@ If you want to attempt to change any of the styles of the page, take a look at t
 
 Feel free to play around, check and uncheck boxes, change colors, change pixels. It's okay if you "mess things up", just refresh the browser and it will all go back to how it was!
 
+<!-- This is my part of the activity -->
+
+<!-- This is the p tag of the initial text with screenshot-->
+ <p class="ProfileTweet-text js-tweet-text u-dir" lang="en" dir="ltr" data-aria-label-part="0">Hello! Sorry to any of you who've been following fake accounts. This post is my first on social but my home will be <a href="/Preserve_Us" class="twitter-atreply pretty-link js-nav" dir="ltr"><s>@</s><b>Preserve_Us</b></a>. xx Blake</p>
+<!-- screenshot -->
+<img src="images/blake-original-text.png">
+
+
+<!-- This is the edited text with screen shot-->
+<p class="ProfileTweet-text js-tweet-text u-dir" lang="en" dir="ltr" data-aria-label-part="0">Hi this is Minling intercepting Blake Lively's twitter</p>
+<!-- screenshot -->
+<img src="images/blake-edited-text.png">
+
+
+<!-- This is the changed picture -->
+<img src="http://minlingzhao.com/wp-content/uploads/2014/11/cropped-DSC_0602small.jpg">
+
+<!-- This is the screen shot of the changed twitter 'follow' button -->
+<img src="images/blake-twitter-font-color.png">
+
 
 
